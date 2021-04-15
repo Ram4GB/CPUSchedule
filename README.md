@@ -6,3 +6,8 @@
 - FCFS
 - Round Robin
 - SFJ
+- PNP 
+- PP 
+- RR 
+- SJF 
+- SRT
